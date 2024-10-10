@@ -1,6 +1,6 @@
 # Entry 1
 ##### 10/7/2024
-Context:
+__Context__:
 For this first entry, I'm going to do a project on security/investigations. The reason I picked this topic is because I seem to really be dedicated to try and protect people around me, regardless if it's just a minor issue, I'd like to be able to encourage and help contribute to a more healthy surrounding environment for not just myself. I want to try to make an effort for society to understand the significant importance of security/investigation and to do so, I need to first be intelluctually prepared. Welcome to my first journey!
 
 Sources:
