@@ -6,10 +6,10 @@ For this first entry, I'm going to do a project on security/investigations. The 
 ### __Sources__:
 
 ### __The Engineering Process__:
-I am currently in the first phase of the engineering process, "Indentifying the problem", the big problems that seem to really overwhelm me right now is attempting to get technological innovations that contribute to security and investigation in my sources. Although, it may seem very clueless on what technologies fall under "security and investigations", the likelyhood of finding a source about my topic is fairly difficult. Therefore, I must try identifying a possible solution.
+I am currently in the first phase of the engineering process, "Indentifying the problem", where I have to discuss the current problems I have in creating the website for my topic. As of right now, my biggest concern goes to really just planning and trying to design it with a lot of effort and creativity put into. Thus, I would need to check out other websites made from my peers, so that I can learn from and get an idea of how I should start setting up my own future design!!
 
 ### __Skill__: 
-My current skill that I've gained from making this blog is doing research by googling on different type of websites to try and help me gain factualized ideas.
+My current skill that I've gained from making this blog is doing research by googling on different websites specifically focusing on this topic to share and inform all my audiences on getting the general gist of security and investigations, so feel free to check out the sources above. Also as I was creating this first ever blog, I went over some of the blog overview examples and checked out some of my school peer's blogs as an example to help me create this one!
 
 
 [Next](entry02.md)
