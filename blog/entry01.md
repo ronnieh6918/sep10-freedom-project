@@ -1,10 +1,13 @@
 # Entry 1
 ##### 10/7/2024
 ### __Context__:
-For this first entry, I'm going to do a project on security/investigations. The reason I picked this topic is because I seem to really be dedicated to try and protect people around me, regardless if it's just a minor issue, I'd like to be able to encourage and help contribute to a more healthy surrounding environment for not just myself. I want to try to make an effort for society to understand the significant importance of security/investigation and to do so, I need to first be intelluctually prepared and educated on this topic. Welcome to my first journey!
+For this first entry, I'm going to do a project on security and investigations. The reason I picked this topic is because I'm really dedicated to protecting people like my own family. To set an example, I'd like to be able to encourage and assist others in contributing to a safety environment for not just myself. To accomplish this, I want to spread awareness in this field to make an effort for society to understand importance of security and investigation such as the pros and cons. In the end, I want to be able to present this website and to educate everyone around the world instead of just the people in my vicinity about this topic. Welcome to my first journey!
 
 ### __Sources__:
-
+Here are some information about Security and Investigations:
+* [What is Security and Investigations?](https://helio.app/audiences/security-and-investigations-industry%EF%BF%BC/#:~:text=Participants%20who%20work%20within%20the,state%2C%20local%2C%20and%20private.)
+* [In what way does the Security and Investigations contribute to modern society?](https://rcipi.com/2024/10/04/understanding-the-role-of-private-investigations-in-organizations/#:~:text=One%20of%20the%20most%20significant,damage%20to%20your%20company's%20reputation.)
+  
 ### __The Engineering Process__:
 I am currently in the first phase of the engineering process, "Indentifying the problem", where I have to discuss the current problems I have in creating the website for my topic. As of right now, my biggest concern goes to really just planning and trying to design it with a lot of effort and creativity put into. Thus, I would need to check out other websites made from my peers, so that I can learn from and get an idea of how I should start setting up my own future design!!
 
