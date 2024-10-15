@@ -1,6 +1,6 @@
 # Entry 1
 ##### 10/7/2024
-### __Context__:
+### __Choosing a topic__:
 For this first entry, I'm going to do a project on security and investigations. The reason I picked this topic is because I'm really dedicated to protecting people like my own family. To set an example, I'd like to be able to encourage and assist others in contributing to a safety environment for not just myself. To accomplish this, I want to spread awareness in this field to make an effort for society to understand importance of security and investigation such as the pros and cons. My backup ideas were Hospital/Healthcare and Space/Defense. Both topics were also very interesting but I found more passion for security and investigations since not many people are aware of how important it is to keep your information safe. My hopes in the end of this project, I want to be able to present this website and connect to others to educate everyone around the world safe instead of just the people in my vicinity about this major topic. Welcome on my first journey!
 
 ### __Sources__:
@@ -12,7 +12,7 @@ Here are some information about Security and Investigations:
 I am currently in the first phase of the engineering process, "Indentifying the problem", where I have to discuss the current problems I have in creating the website for my topic. As of right now, my biggest concern goes to really just planning and trying to design it with a lot of effort and creativity put into. Thus, I would need to check out other websites made from my peers, so that I can learn from and get an idea of how I should start setting up my own future design!!
 
 ### __Skill__: 
-My current skill that I've gained from making this blog is doing research by googling on different websites specifically focusing on this topic to share and inform all my audiences on getting the general gist of security and investigations, so feel free to check out the sources above. Also as I was creating this first ever blog, I went over some of the blog overview examples and checked out some of my school peer's blogs as an example to help me create this one!
+My current skill that I've gained from making this blog is **doing research** by googling on different websites specifically focusing on this topic to share and inform all my audiences on getting the general gist of security and investigations, so feel free to check out the sources above. Also as I was creating this first ever blog, I went over some of the blog overview examples and checked out some of my school peer's blogs as an example to help me create this one!
 
 
 [Next](entry02.md)
