@@ -1,7 +1,7 @@
 # Entry 1
 ##### 10/7/2024
 ### __Context__:
-For this first entry, I'm going to do a project on security and investigations. The reason I picked this topic is because I'm really dedicated to protecting people like my own family. To set an example, I'd like to be able to encourage and assist others in contributing to a safety environment for not just myself. To accomplish this, I want to spread awareness in this field to make an effort for society to understand importance of security and investigation such as the pros and cons. In the end, I want to be able to present this website and to educate everyone around the world instead of just the people in my vicinity about this topic. Welcome to my first journey!
+For this first entry, I'm going to do a project on security and investigations. The reason I picked this topic is because I'm really dedicated to protecting people like my own family. To set an example, I'd like to be able to encourage and assist others in contributing to a safety environment for not just myself. To accomplish this, I want to spread awareness in this field to make an effort for society to understand importance of security and investigation such as the pros and cons. My backup ideas were Hospital/Healthcare and Space/Defense. Both topics were also very interesting but I found more passion for security and investigations since not many people are aware of how important it is to keep your information safe. My hopes in the end of this project, I want to be able to present this website and connect to others to educate everyone around the world safe instead of just the people in my vicinity about this major topic. Welcome on my first journey!
 
 ### __Sources__:
 Here are some information about Security and Investigations:
