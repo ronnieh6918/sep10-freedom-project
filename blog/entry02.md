@@ -15,7 +15,7 @@ I am on step 2 of the engineering design process...
 # Skills: 
 The skills I've learned from doing research on my topic is being **resourceful by using multiple websites** instead of using just 1. Having more information on a topic is beneficial since using one website to gather information just increases the risk of the information provided later on inside my blog become too generic, whereas researching on multiple websites allows other ideas to come together and build up establishing connections and more understanding on the field of my topic.  
 
-Another skill I've learn is ...
+Another skill I've learn from making this blog is using **time effectively**. For instance, when my teacher provided us with time in class to research about the gadgets in my topic, I used the time proficiently to do research, so that I wouldn't fall back behind in class when I write my second blog entry. This is really benefical due to the collecting of ideas from the sources I researched beforehand, boosting my knowledge on my topic and ease my work significantly since I already have all the materials I need to start writing this blog entry.
 
 [Previous](entry01.md) | [Next](entry03.md)
 
