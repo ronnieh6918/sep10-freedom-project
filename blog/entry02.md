@@ -2,15 +2,12 @@
 ##### 11/4/2024
 
 ### Context:
-Hello there, welcome to my second blog on my topic about security and investigations! Previously, I've talked about why I chose the topic, what was the topic is about, and the impact of security and investigation in modern society. Now, in this next blog entry, I plan to go over the following; what kind of gadgets is involved in security and investigation? How does it help bring more beneficial in helping private investigators with their case? So, there are many types gadgets for private investigators in various situations. According to [some of the gadgets used by private investigators](https://www.investigatesc.com/the-5-coolest-gadgets-and-gear-for-private-investigators/), the website talks about some of the significance in gadgets used in the field of security and investigators such as GPS Tracking that tracks activity allowing distance monitoring, and other gadgets like Device Cloning which allows investigators to copy a device in which private investigators can investigate activity through extracting data and information. Common gears like surveillance cameras help capture important footages that is beneficial for their investigations. This is important because with these tools and the knowledge that private investigators have using  google searches play a huge role for investigators to use their tools effectively even in the digital world, private investigators can reverse search important images leading to their suspects giving them sense of their background checks and other necessary documentaries.
+Hello there, welcome to my second blog on my topic about security and investigations! Previously, I've talked about why I chose the topic, what was the topic is about, and the impact of security and investigation in modern society. Now, in this next blog entry, I plan to go over the following; what kind of gadgets is involved in security and investigation? How does it help bring more beneficial in helping private investigators with their case? So, there are many types gadgets for private investigators in various situations. According to [**some of the gadgets used by private investigators**](https://www.investigatesc.com/the-5-coolest-gadgets-and-gear-for-private-investigators/), the website talks about some of the significance in gadgets used in the field of security and investigators such as GPS Tracking that tracks activity allowing distance monitoring, and other gadgets like Device Cloning which allows investigators to copy a device in which private investigators can investigate activity through extracting data and information. Common gears like surveillance cameras help capture important footages that is beneficial for their investigations. This is important because with these tools and the knowledge that private investigators have using  google searches play a huge role for investigators to use their tools effectively even in the digital world, private investigators can reverse search important images leading to their suspects giving them sense of their background checks and other necessary documentaries.
 
-
-
-
-)
 
 ### Source:
-*
+Below are the sources I've included for this blog entry:
+* [**Some of the gadgets used by private investigators**](https://www.investigatesc.com/the-5-coolest-gadgets-and-gear-for-private-investigators/)
 *
 *
 
