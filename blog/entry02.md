@@ -13,7 +13,7 @@ Hello there, welcome to blog 2 of my freedom project topic about security and in
 I am on step 2 of the engineering design process...
 
 # Skills: 
-The skills I've learned from doing research on my topic is being **resourceful by using multiple websites** instead of using just 1. Having more information on a topic is beneficial since using one website increases the risk of the information provided in my blog become too generically similar, whereas researching on multiple websites allows other ideas to come together and build up establishing connections and more understanding on the field of my topic.  
+The skills I've learned from doing research on my topic is being **resourceful by using multiple websites** instead of using just 1. Having more information on a topic is beneficial since using one website to gather information just increases the risk of the information provided later on inside my blog become too generic, whereas researching on multiple websites allows other ideas to come together and build up establishing connections and more understanding on the field of my topic.  
 
 Another skill I've learn is ...
 
