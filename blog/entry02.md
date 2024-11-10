@@ -8,8 +8,7 @@ Hello there, welcome to my second blog on my topic about security and investigat
 ### Source:
 Below are the sources I've included for this blog entry:
 * [**Some of the gadgets used by private investigators**](https://www.investigatesc.com/the-5-coolest-gadgets-and-gear-for-private-investigators/)
-*
-*
+* [Things you didn't know about private investigators](https://www.pce.uw.edu/news-features/articles/things-you-didn-t-know-about-private-investigators)
 
 ### The Engineering Process:
 I am on step 2 of the engineering design process...
