@@ -1,5 +1,5 @@
 # Entry 3
-##### X/X/XX
+##### 12/18/2024
 
 # Future ideas for my topic (Security and Investigations):
 # Engineering Design Process:
