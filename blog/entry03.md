@@ -13,6 +13,7 @@ I am on step 3: brainstorming possible solutions of the Engineering Design Proce
 
 # Next steps:
 After discussing about some possible ideas for security and investigation, I am ready to potentially create a design for the 2 possible revolutionary technology that would be cool to have for investigators and even just replace some of our outdated tools.
-[Previous](entry02.md) | [Next](entry04.md)
+
+[Previous](entry02.md) |[Next](entry04.md)
 
 [Home](../README.md)
