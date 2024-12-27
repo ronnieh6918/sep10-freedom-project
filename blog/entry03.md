@@ -16,7 +16,7 @@ I am on **Step 3: Brainstorming Possible Solutions of the Engineering Design Pro
 * Another skill I learned when making this blog is **consideration**, since if I'm planning for technologies in the future, I need to be diving into a prototype that are suppose to innovate for my current topic, so I would need to share this blog to others to get constructive feedbacks, plus takng consideration on what private investigators might need and for us to create technologies that primarily focus on effective progress when investgators are engaging in their cases.
 
 # Next steps:
-After discussing about some possible ideas for security and investigation, I am ready to potentially create a design for the 2 possible revolutionary technology that would be cool to have for investigators and even just replace some of our probably more considered outdated tools in the future.
+After discussing about some possible ideas for security and investigation, I am ready to potentially create a design and layout for the set foundation of my freedom project website, with the idea of the 2 possible revolutionary technology that I brainstormed would be cool to have for investigators and even potentially replace some of our probably more considered outdated tools in the future. 
 
 
 [Previous](entry02.md) | [Next](entry04.md)
