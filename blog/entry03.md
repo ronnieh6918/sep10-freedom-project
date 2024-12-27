@@ -2,7 +2,11 @@
 ##### 12/18/2024
 
 # Future ideas for my topic (Security and Investigations):
-Hey! For this blog entry, I am investigating on potential 
+Hey! For this blog entry, I am investigating on potential future technologies that can be implemented in the mere future, so in the end I am planning to create a website with my topic and these technologies being illustrated for my interested audiences. But first, I need to explore projects from my peers to evaluate on the design of my website. Therefore, here are some ideas I recieved from looking into my peer's freedom project designs. According to..
+
+# Sources:
+[https://docs.google.com/spreadsheets/u/0/d/1A9c3MeOK8fK8ylRY06DXC-QLbdJjKKj4lvDp-UHlbHU/htmlview?pli=1#gid=0]
+
 # Engineering Design Process:
 I am on step 3: brainstorming possible solutions of the Engineering Design Process. For step 3, we're brainstorming ideas about our future topics. Resolving issues and making resolution by designing possible technologies that could advocate for a better change in the mere future. Although, these technologies are not available yet, as our technology advances we have more access to new technology that support human's quality of life. Ideas are infinite, anything is possible with imagination!
 
@@ -13,6 +17,7 @@ I am on step 3: brainstorming possible solutions of the Engineering Design Proce
 
 # Next steps:
 After discussing about some possible ideas for security and investigation, I am ready to potentially create a design for the 2 possible revolutionary technology that would be cool to have for investigators and even just replace some of our probably more considered outdated tools in the future.
+
 
 [Previous](entry02.md) | [Next](entry04.md)
 
