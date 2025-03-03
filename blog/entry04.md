@@ -6,8 +6,8 @@ Hello, welcome to my 4th Blog Entry. For this blog entry, I am going to prepare 
 # Source:
 # Skills:
 The skills I've required from tinkering with my freedom project tool is ...
-**Creativity** - 
-**Imagination** - 
+* **Learning to ticker my tool effectively** - 
+* **Putting more into my imagination** - 
 # Next Steps:
 1) 
 
