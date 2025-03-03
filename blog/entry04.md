@@ -27,7 +27,7 @@ When I explore Aframe, I was able to discover the starter code when navigating t
 # Sources:
 ### Why Aframe?
 1) I used the introduction page of [Aframe](https://aframe.io/docs/1.7.0/introduction/) to gather context revolving around what Aframe was about. A web framework to build unique VR experiences with HTML. Seeing this and tinkering with the code, I was impressed at how realistic it was, I could move around freely to visually see 3D figures. The background also wasn't just a specific color but resembles an actually sky almost like in videogames. 
-2) To learn more about Aframe, I had to use youtube videos,
+2) To learn more about Aframe, I used a youtube video about Aframe ["What is Aframe?"](https://www.youtube.com/watch?v=ktjMCanKNLk), the youtube video explains how Aframe offers javascript library uses WebGL API that allows user to make allowing user apply Aframe to create web scenes like virtual experiences and 3D designs.
 
 # Skills:
 The skills I've required from tinkering with my freedom project tool is ...
