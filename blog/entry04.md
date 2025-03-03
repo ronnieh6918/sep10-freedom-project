@@ -10,7 +10,7 @@ When I explore Aframe, I was able to discover the starter code when navigating t
 # Skills:
 The skills I've required from tinkering with my freedom project tool is ...
 * **Learning to ticker my tool effectively** - When I tinkered with Aframe, the figures were 3D and I was able to virtually move around just by using HTML codes. I realized that using Aframe, I could code my webdesign into something like this.
-* **Putting more into my imagination** - In reality, most webdesign don't have much animations, but just texts. I want to make my webdesign into something unique, where I could make my webdesign viewed by audience in a VR styled experience.  
+* **Putting more into my imagination** - In reality, most webdesign don't have much animations, but just texts. I could learn to use more animation and 3D figures to create something unique especially to creating for the future tools I planned onto my freedom project.   
 
 # Next Steps:
 After exploring Aframe, I want to stick with the tool. I want to be able to do more coding with Aframe to get a better understanding of what Aframe is really capable of, and how it can improve my webdesign significantly if I tickered the tool more. Of course, I will still keep my backup tool in case, but I have no plans to change my current tool. 
