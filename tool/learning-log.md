@@ -50,6 +50,10 @@ After scrolling on the Aframe, I found the Aframe guide section, I checked out t
 * [Aframe Guide: Building a Basic Scene](https://aframe.io/docs/1.7.0/guides/building-a-basic-scene.html)
 
 ```HTML
+<head>
+  <script src="https://aframe.io/releases/1.7.0/aframe.min.js"></script>
+  <script src="https://unpkg.com/aframe-environment-component@1.3.x/dist/aframe-environment-component.min.js"></script>
+</head>
 <a-scene>
   <a-box color="red" position="0 2 -5" rotation="0 45 45" scale="2 2 2"></a-box>
 
