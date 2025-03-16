@@ -44,10 +44,19 @@ Below is the starter code I tinkered before I tried changing the rotation and ra
 ```
 <hr>
 
-### X/X/XX:
-* Text
+### 3/15/2025:
+After scrolling on the Aframe, I found the Aframe guide section, I checked out the Building Basics Scene and found out how I could change the background to something else rather than sky. Learning this could allow me to change the background to something else that actually matches with the following theme I plan to create using Aframe.
 
+* [Aframe Guide: Building a Basic Scene](https://aframe.io/docs/1.7.0/guides/building-a-basic-scene.html)
 
+```HTML
+<a-scene>
+  <a-box color="red" position="0 2 -5" rotation="0 45 45" scale="2 2 2"></a-box>
+
+  <!-- Out of the box environment! -->
+  <a-entity environment="preset: forest; dressingAmount: 500"></a-entity>
+</a-scene>
+```
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
