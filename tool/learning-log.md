@@ -45,10 +45,28 @@ Below is the starter code I tinkered before I tried changing the rotation and ra
 <hr>
 
 ### 3/15/2025:
-After scrolling on the Aframe, I found the Aframe guide section, I checked out the Building Basics Scene and found out how I could change the background to something else rather than sky. Learning this could allow me to change the background to something else that actually matches with the following theme I plan to create using Aframe.
+After scrolling on the Aframe, I found the Aframe guide section, I checked out the Building Basics Scene and found out how I could change the background to something else rather than sky. Learning this could allow me to change the background to something else that actually matches with the following theme I plan to create using Aframe. 
 
 * [Aframe Guide: Building a Basic Scene](https://aframe.io/docs/1.7.0/guides/building-a-basic-scene.html)
+* [Environment Preset: More options to pick from!](https://supermedium.com/aframe-environment-component/#)
+  
+<br>
 
+Below the code, there is an environmental component that Aframe uses to upload a unique background. Originally, the code provided was creating a forest background, however there's other options you can pick aside from. 
+
+<br>
+
+  * ``<script src="https://unpkg.com/aframe-environment-component@1.3.x/dist/aframe-environment-component.min.js"></script>`` **(Environmental component must be within the head)**
+  * ``<a-scene>`` **(Creates a scene, and within any scene there are entities you can create)**
+  * ``<a-entity environmental="preset: forest/starry; dressingAmount: 500"></a-entity>`` **(Change the background to a starry sky scene)**
+
+<br>
+
+First, you must have the environmental component before you can use the environmental preset which then allows you to pick a unique environment for your scene. For example, when using environmental preset code, you can change the background into the following environment options: forest, volcano, starry, and hills. 
+
+<br>
+
+Below the code, I changed the environment scene into a starry sky scene. 
 ```HTML
 <head>
   <script src="https://aframe.io/releases/1.7.0/aframe.min.js"></script>
@@ -58,9 +76,11 @@ After scrolling on the Aframe, I found the Aframe guide section, I checked out t
   <a-box color="red" position="0 2 -5" rotation="0 45 45" scale="2 2 2"></a-box>
 
   <!-- Out of the box environment! -->
-  <a-entity environment="preset: forest; dressingAmount: 500"></a-entity>
+  <a-entity environment="preset: starry; dressingAmount: 500"></a-entity>
 </a-scene>
 ```
+<hr>
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
