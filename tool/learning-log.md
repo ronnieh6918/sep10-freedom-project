@@ -5,7 +5,7 @@
 ---
 
 ### 3/9/2025:
-I tinkered with the starter code of A-Frame and investigated on some of the properties within the HTML code. I also used videos from youtube and the A-frame website to get to know what A-Frame uses and offers to users who plan to use A-frame to code and make use of the tool. 
+I tinkered with the starter code of A-Frame and investigated on some of the properties within the HTML code. I also used videos from youtube and the A-frame website to get to know what A-Frame uses and offers to users who plan to use A-frame to code and make use of the tool.
 
 * [A-Frame](https://aframe.io/docs/1.7.0/introduction/)
 * ["What is Aframe?"](https://www.youtube.com/watch?v=ktjMCanKNLk)
@@ -45,14 +45,14 @@ Below is the starter code I tinkered before I tried changing the rotation and ra
 <hr>
 
 ### 3/15/2025:
-After scrolling on the Aframe, I found the Aframe guide section, I checked out the Building Basics Scene and found out how I could change the background to something else rather than sky. Learning this could allow me to change the background to something else that actually matches with the following theme I plan to create using Aframe. 
+After scrolling on the Aframe, I found the Aframe guide section, I checked out the Building Basics Scene and found out how I could change the background to something else rather than sky. Learning this could allow me to change the background to something else that actually matches with the following theme I plan to create using Aframe.
 
 * [Aframe Guide: Building a Basic Scene](https://aframe.io/docs/1.7.0/guides/building-a-basic-scene.html)
 * [Environment Preset: More options to pick from!](https://supermedium.com/aframe-environment-component/#)
-  
+
 <br>
 
-Below the code, there is an environmental component that Aframe uses to upload a unique background. Originally, the code provided was creating a forest background, however there's other options you can pick aside from. 
+Below the code, there is an environmental component that Aframe uses to upload a unique background. Originally, the code provided was creating a forest background, however there's other options you can pick aside from.
 
 <br>
 
@@ -62,11 +62,11 @@ Below the code, there is an environmental component that Aframe uses to upload a
 
 <br>
 
-First, you must have the environmental component before you can use the environmental preset which then allows you to pick a unique environment for your scene. For example, when using environmental preset code, you can change the background into the following environment options: forest, volcano, starry, and hills. 
+First, you must have the environmental component before you can use the environmental preset which then allows you to pick a unique environment for your scene. For example, when using environmental preset code, you can change the background into the following environment options: forest, volcano, starry, and hills.
 
 <br>
 
-Below the code, I changed the environment scene into a starry sky scene. 
+Below the code, I changed the environment scene into a starry sky scene.
 ```HTML
 <head>
   <script src="https://aframe.io/releases/1.7.0/aframe.min.js"></script>
@@ -74,14 +74,48 @@ Below the code, I changed the environment scene into a starry sky scene.
 </head>
 <a-scene>
   <a-box color="red" position="0 2 -5" rotation="0 45 45" scale="2 2 2"></a-box>
-
   <!-- Out of the box environment! -->
   <a-entity environment="preset: starry; dressingAmount: 500"></a-entity>
 </a-scene>
 ```
 <hr>
 
-<!-- 
+### 3/15/2025:
+I scrolled through the building a scene section on Aframe and found that I could combine the environmental setting and adding a texture to my entity.
+
+* [Image texture](https://aframe.io/docs/1.7.0/guides/building-a-basic-scene.html)
+
+Below is the code of an environmental component and texture of an entity within the scene.
+
+```HTML
+<head>
+    <script src="https://aframe.io/releases/1.7.0/aframe.min.js"></script>
+    <script src="https://unpkg.com/aframe-environment-component@1.3.x/dist/aframe-environment-component.min.js"></script>
+</head>
+<body>
+    <a-scene>
+        <a-box color="red" position="0 2 -5" rotation="0 45 45" scale="2 2 2"></a-box>
+        <a-box src="https://i.imgur.com/mYmmbrp.jpg" position="0 2 -5" rotation="0 45 45" scale="2 2 2"></a-box>
+        <!-- Out of the box environment! -->
+        <a-entity environment="preset: japan; dressingAmount: 500"></a-entity>
+    </a-scene>
+</body>
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
 * Challenges, a-ha moments, etc
