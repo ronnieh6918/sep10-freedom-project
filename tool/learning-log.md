@@ -80,12 +80,14 @@ Below the code, I changed the environment scene into a starry sky scene.
 ```
 <hr>
 
-### 3/15/2025:
+### 3/24/2025:
 I scrolled through the building a scene section on Aframe and found that I could combine the environmental setting and adding a texture to my entity.
 
 * [Image texture](https://aframe.io/docs/1.7.0/guides/building-a-basic-scene.html)
 
 Below is the code of an environmental component and texture of an entity within the scene.
+
+* ``<a-entity src="texture link"></a-entity>`` **(Import a texture to the assigned entity)**
 
 ```HTML
 <head>
@@ -101,6 +103,7 @@ Below is the code of an environmental component and texture of an entity within 
     </a-scene>
 </body>
 ```
+<hr>
 
 
 
