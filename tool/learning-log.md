@@ -93,6 +93,8 @@ I scrolled through the building a scene section on Aframe and found that I could
 * ``<a-sky color="#"></a-sky>`` **(Assign a color for the sky/color that takes up the whole scene)**
 * ``<a-plane="color" rotation="-90 0 0" width="#" height="#"></a-plane>`` **(Create a plane; the code has rotation of -90 which is a 90 counter-clockwise, since a plane is vertical you have to rotate it 90 degrees to make the plane horizontal and visible.)**
 
+<br>
+
 Below is the code of an environmental component and texture of an entity within the scene.
 
 ```HTML
@@ -109,6 +111,8 @@ Below is the code of an environmental component and texture of an entity within 
     </a-scene>
 </body>
 ```
+
+<br>
 
 Below is the code I used to create a custom background with a plane that is already shifted from vertically to horizontally. Adjusting the width and height can also mean adjusting how you want to stretch the plane to fit more entities within the scene.
 
