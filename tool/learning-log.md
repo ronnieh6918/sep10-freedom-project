@@ -81,7 +81,7 @@ Below the code, I changed the environment scene into a starry sky scene.
 <hr>
 
 ### 3/24/2025:
-I scrolled through the building a scene section on Aframe and found that I could combine the environmental setting and adding a texture to my entity.
+I scrolled through the building a scene section on Aframe and found that I could combine the environmental setting and adding a texture to my entity. I also learned to create a custom sky background assigned with a preferred color. Also, I figured out how to create a plane that can be the starting foundation that acts like a floor/ground where you can put more entities on the plane creating a unique scene.
 
 * [Image texture](https://aframe.io/docs/1.7.0/guides/building-a-basic-scene.html)
 * [Custom background](https://aframe.io/docs/1.7.0/guides/building-a-basic-scene.html)
