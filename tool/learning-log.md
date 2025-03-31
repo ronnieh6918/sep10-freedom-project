@@ -84,10 +84,16 @@ Below the code, I changed the environment scene into a starry sky scene.
 I scrolled through the building a scene section on Aframe and found that I could combine the environmental setting and adding a texture to my entity.
 
 * [Image texture](https://aframe.io/docs/1.7.0/guides/building-a-basic-scene.html)
+* [Custom background](https://aframe.io/docs/1.7.0/guides/building-a-basic-scene.html)
+* [Creating a plane](https://aframe.io/docs/1.7.0/guides/building-a-basic-scene.html)
 
-Below is the code of an environmental component and texture of an entity within the scene.
+## Notes
 
 * ``<a-entity src="texture link"></a-entity>`` **(Import a texture to the assigned entity)**
+* ``<a-sky color="#"></a-sky>`` **(Assign a color for the sky/color that takes up the whole scene)**
+* ``<a-plane="color" rotation="-90 0 0" width="#" height="#"></a-plane>`` **(Create a plane; the code has rotation of -90 which is a 90 counter-clockwise, since a plane is vertical you have to rotate it 90 degrees to make the plane horizontal and visible.)**
+
+Below is the code of an environmental component and texture of an entity within the scene.
 
 ```HTML
 <head>
@@ -103,6 +109,16 @@ Below is the code of an environmental component and texture of an entity within 
     </a-scene>
 </body>
 ```
+
+Below is the code I used to create a custom background with a plane that is already shifted from vertically to horizontally. Adjusting the width and height can also mean adjusting how you want to stretch the plane to fit more entities within the scene.
+
+```HTML
+<a-scene>
+  <a-sky color="#FFFFFF"></a-sky>
+  <a-plane color="#222" rotation="-90 0 0" width="30" height="30"></a-plane>
+</a-scene>
+```
+
 <hr>
 
 
