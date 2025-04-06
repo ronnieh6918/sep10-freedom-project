@@ -4,7 +4,7 @@
         <!-- Required meta tags -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
+        <script src="https://aframe.io/releases/1.7.0/aframe.min.js"></script>
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" />
         <link href="style.css" rel="stylesheet" type="text/css" />
         <style>
@@ -17,15 +17,14 @@
     <body>
         <!-- HTML -->
         <head>
-          <script src="https://aframe.io/releases/1.7.0/aframe.min.js"></script>
-          <script src="https://unpkg.com/aframe-environment-component@1.3.x/dist/aframe-environment-component.min.js"></script>
+            <script src="https://aframe.io/releases/1.7.0/aframe.min.js"></script>
         </head>
-        <body>
         <a-scene>
-          <a-sky color="#FFFFFF"></a-sky>
-          <a-plane color="#222" rotation="-90 0 0" width="30" height="30"></a-plane>
+            <a-assets>
+                <img id="groundTexture" src="https://cdn.aframe.io/a-painter/images/floor.jpg">
+            </a-assets>
+            <a-plane src="#groundTexture" rotation="-90 0 0" width="30" height="30" repeat="30 30"></a-plane>
         </a-scene>
-
         <!-- <script src="script.js"></script> -->
         <script>
             // JS

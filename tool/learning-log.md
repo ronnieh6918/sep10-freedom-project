@@ -125,7 +125,40 @@ Below is the code I used to create a custom background with a plane that is alre
 
 <hr>
 
+### 4/6/2025:
+I scrolled through the building a scene section on Aframe and discovered that we can combine our image texture not just applying it to shapes, but also applying it to our plane!
 
+<br>
+
+* [Adding image texture onto plane](https://aframe.io/docs/1.7.0/guides/building-a-basic-scene.html)
+* [Applying repeating tiles on plane](https://aframe.io/docs/1.7.0/guides/building-a-basic-scene.html)
+
+<br>
+
+## Notes:
+
+''<img id="groundTexture" src="image-texture-link">'' (**Put this code between assets, this html code creates an id for an image texture where you can apply it onto anything like entities, but for this case we are applying it onto the plane.**)
+``<a-plane src="#groundTexture" rotation="-90 0 0" width="30" height="30 repeat="30 30"></a-plane>`` (**In this html code, repeating is used as a way to repeat the texture image which in this case is the tiles and using the tiles to create 30 rows of tiles horizontally and 30 tiles up vertically on the plane.**)
+
+<br>
+
+Below is the code, I tried to create an image texture and applying it onto the plane. Then, I used the plane to create a vertical plane and tilting it 90 degrees counter-clockwise to make it horizontal. The length and width of the plane is both 30, and I used the new repeat code to make a row of 30 tiles horizontally and vertically. At first, I had trouble tinkering with the code because I forgot that the image texture is from AFrame, so you have to import this between the head ``<script src="https://aframe.io/releases/1.7.0/aframe.min.js"></script>`` to use the image texture.
+
+<br>
+
+```HTML
+<head>
+  <script src="https://aframe.io/releases/1.7.0/aframe.min.js"></script>
+</head>
+  <a-scene>
+  <a-assets>
+    <img id="groundTexture" src="https://cdn.aframe.io/a-painter/images/floor.jpg">
+  </a-assets>
+  <a-plane src="#groundTexture" rotation="-90 0 0" width="30" height="30 repeat="30 30"></a-plane>
+</a-scene>
+```
+
+<hr>
 
 
 
