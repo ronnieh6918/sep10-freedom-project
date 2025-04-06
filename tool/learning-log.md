@@ -137,7 +137,7 @@ I scrolled through the building a scene section on Aframe and discovered that we
 
 ## Notes:
 
-* ''<img id="groundTexture" src="image-texture-link">'' (**Put this code between assets, this html code creates an id for an image texture where you can apply it onto anything like entities, but for this case we are applying it onto the plane.**)
+* ``<img id="groundTexture" src="image-texture-link">`` (**Put this code between assets, this html code creates an id for an image texture where you can apply it onto anything like entities, but for this case we are applying it onto the plane.**)
 * ``<a-plane src="#groundTexture" rotation="-90 0 0" width="30" height="30 repeat="30 30"></a-plane>`` (**In this html code, repeating is used as a way to repeat the texture image which in this case is the tiles and using the tiles to create 30 rows of tiles horizontally and 30 tiles up vertically on the plane.**)
 
 <br>
