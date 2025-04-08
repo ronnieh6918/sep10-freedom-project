@@ -20,10 +20,11 @@
             <script src="https://aframe.io/releases/1.7.0/aframe.min.js"></script>
         </head>
         <a-scene>
-            <a-assets>
-                <img id="groundTexture" src="https://cdn.aframe.io/a-painter/images/floor.jpg">
-            </a-assets>
-            <a-plane src="#groundTexture" rotation="-90 0 0" width="30" height="30" repeat="30 30"></a-plane>
+            <assets>
+                <img id="sky" src="sky.jpeg">
+            </assets>
+                <a-sky src="#sky"></a-sky>
+                <a-plane rotation="-90 0 0" width="30" height="30"></a-plane>
         </a-scene>
         <!-- <script src="script.js"></script> -->
         <script>
