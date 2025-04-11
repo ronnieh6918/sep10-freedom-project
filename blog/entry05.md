@@ -1,7 +1,17 @@
 # Entry 5
-##### X/X/XX
+##### 4/11/2025
 
-Text
+# Context:
+text
+
+# Sources:
+text
+
+# Skills:
+text
+
+# Next steps:
+text
 
 [Previous](entry04.md) | [Next](entry06.md)
 
