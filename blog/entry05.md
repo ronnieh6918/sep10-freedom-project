@@ -55,7 +55,7 @@ Below is a code I used for...
 ```
 
 # Skills:
-* **Problem-solving**: A lot of problem solving comes with tinkering codes, comprehending and making sure to understand the concept. When tinkering with Aframe, the most necessary thing to learn our tool is by tinkering with curiousity, first curiousity leads us to exploring the concept deeper. Normally, when we are tinkering, we face problems like coding errors, and we often don't go beyond since we are given the option to give up in the face of obstacles. The skill, Problem solving, is essential because it's a personal skill that requires perservance to keep on going and to solve errors instead of just giving up.
+* **Problem solving**: A lot of problem solving comes with tinkering codes, comprehending and making sure to understand the concept. When tinkering with Aframe, the most necessary thing to learn our tool is by tinkering with curiousity, first curiousity leads us to exploring the concept deeper. Normally, when we are tinkering, we face problems like coding errors, and we often don't go beyond since we are given the option to give up in the face of obstacles. The skill, Problem solving, is essential because it's a personal skill that requires perservance to keep on going and to solve errors instead of just giving up.
 * **Time managment**: Managing my time effectively when we were given time in class to tinker with Aframe. With our final learning of our tool by wrapping up the final learning contents. Even though, I didn't get to explore the entire Aframe components and other features Aframe offers. However, it's essential to learn some of Aframe which allows us to use Aframe to build a scene that could really stand out when applying to my final freedom project. 
 
 # Next steps:
