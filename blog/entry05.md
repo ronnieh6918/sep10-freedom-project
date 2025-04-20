@@ -32,6 +32,27 @@ Below is the code I made a basic scene of using the following concepts:
   </body>
 </html>
 ```
+Below is a code I used for...
+* Using the environmental component (**make sure to have the environmental component link first in between the head before importing an environmental component setting**)
+* Applying textures to entities
+
+```HTML
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Try out an Environmental Component!</title>
+    <script src="https://aframe.io/releases/1.7.0/aframe.min.js"></script>
+    <script src="https://unpkg.com/aframe-environment-component@1.3.x/dist/aframe-environment-component.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+        <a-box src="https://i.imgur.com/mYmmbrp.jpg" position="0 2 -5" rotation="0 45 45" scale="2 2 2"></a-box>
+        <!-- Out of the box environment! -->
+        <a-entity environment="preset: japan; dressingAmount: 500"></a-entity>
+    </a-scene>
+  </body>
+</html>
+```
 
 # Skills:
 * **Problem-solving**: A lot of problem solving comes with tinkering codes, comprehending and making sure to understand the concept. When tinkering with Aframe, the most necessary thing to learn our tool is by tinkering with curiousity, first curiousity leads us to exploring the concept deeper. Normally, when we are tinkering, we face problems like coding errors, and we often don't go beyond since we are given the option to give up in the face of obstacles. The skill, Problem solving, is essential because it's a personal skill that requires perservance to keep on going and to solve errors instead of just giving up.
