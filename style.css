@@ -2,9 +2,8 @@ h1{
     text-align: center;
 }
 
-.img-adjust{
-    width: 500px;
-    height: 500px;
+.img-padding{
+    padding: 20px;
 }
 
 .grey-section {
