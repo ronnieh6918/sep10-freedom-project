@@ -3,7 +3,7 @@ h1{
 }
 
 .img-padding{
-    padding: 20px;
+    padding-top: 10px;
 }
 
 .grey-section {
@@ -16,5 +16,13 @@ h1{
 
 .other-font{
     font-family: Josefin Sans;
+}
+
+p{
+    padding-left: 20px;
+}
+
+h3{
+    padding-left: 20px;
 }
 
