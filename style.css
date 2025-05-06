@@ -26,6 +26,11 @@ h3{
     padding-left: 20px;
 }
 
-.img-height{
-    height: 500px;
+.overlap{
+    text-align: center;
+    position: absolute;
+    bottom: 70%;
+    right: 50%;
+    z-index: 2;
+    color: white;
 }
