@@ -26,8 +26,8 @@ h3{
     padding-left: 20px;
 }
 
-.carousel .item {
-    height: 300px;
+.carousel-item{
+    height: 800px;
   }
 
   .item img {
