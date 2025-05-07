@@ -45,7 +45,7 @@
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
-| Rain Song  | I like how you have a section where all the cards exist with content and the carousel functions well; images are same scale  | Consider making the cards the same height 
+| Rain Song  | I like how you have a section where all the cards exist with content and the carousel functions well; images are same scale  | Consider making the cards the same height and at certain screen sizes, the text overlaps with the images.
 |   |   |
 |   |   |
 |   |   |
