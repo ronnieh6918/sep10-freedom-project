@@ -46,7 +46,8 @@
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
 | Rain Song  | I like how you have a section where all the cards exist with content and the carousel functions well; images are same scale  | Consider making the cards the same height and at certain screen sizes, the text overlaps with the images.
-|   |   |
+| Cammi Wong | I like the cards that you displayed for your software and hardware by using bootstraps grid system!
+I suggest putting a fixed navbar on the top of your website, so that users do not have to keep scrolling up if they want to locate a specific section.
 |   |   |
 |   |   |
 |   |   |
