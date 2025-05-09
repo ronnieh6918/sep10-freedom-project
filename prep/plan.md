@@ -49,8 +49,8 @@
 | Cammi Wong | I like the cards that you displayed for your software and hardware by using bootstraps grid system!
 I suggest putting a fixed navbar on the top of your website, so that users do not have to keep scrolling up if they want to locate a specific section.
 | Gabriel Mora | Everything is very smooth and is nice to look at. The title on the carousel is kinda hard to read and I think you should seperate the title and the liinks in the navbar.
-|   |   |
-|   |   |
-|   |   |
+| Leo Lin | I like how the header has this cool background carousel image of your topic. It looks really cool! I also like the layout of your website. Grow: Something you should consider is adding a fixed navbar also, you can try making your card all the same size for the hardware section.
+|   |
+|   |   
 
 -->
