@@ -42,4 +42,6 @@ h2{
     text-align: center;
 }
 
-.card
+.card{
+    height: auto;
+}
