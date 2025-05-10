@@ -16,7 +16,7 @@ h1{
 }
 
 .other-font{
-    font-family: Raleway;
+    font-family: Josefin Sans;
 }
 
 p{
@@ -40,6 +40,7 @@ h3{
 
 .heading-padding{
     padding-left: 125px;
+    font-family: Josefin Sans;
 }
 
 h2{
