@@ -1,6 +1,6 @@
 h1{
     text-align: center;
-    
+    font-size: 40px;
 }
 
 .img-padding{
@@ -25,6 +25,7 @@ p{
 
 h3{
     padding-left: 30px;
+    font-size: 30px;
 }
 
 .overlap{
@@ -43,6 +44,7 @@ h3{
 
 h2{
     text-align: center;
+    font-size: 35px;
 }
 
 body{
