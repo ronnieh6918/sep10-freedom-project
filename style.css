@@ -42,6 +42,9 @@ h2{
     text-align: center;
 }
 
-@media (max-width: ){
-    padding-left: 6px;
+@media (max-width: 993px) {
+    p{
+        padding-left: 20px;
+    }
+
 }
