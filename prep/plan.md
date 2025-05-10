@@ -6,9 +6,8 @@
 
 ## Colors
 * #d4d5d6
-* Lime
-* #90EE90
-* Sky Blue
+* #00FF00
+* #87CEEB
 
 
 ## Fonts
