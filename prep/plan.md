@@ -5,10 +5,7 @@
 * [Desktop](https://wireframe.cc/SBusN1)
 
 ## Colors
-* EDE8D0
-* D3D3D3
-* #87CEEB
-* #00BFFF
+
 
 ## Fonts
 * [Open Sans](https://fonts.google.com/specimen/Open+Sans)
