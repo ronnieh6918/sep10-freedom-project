@@ -42,5 +42,6 @@ h2{
     text-align: center;
 }
 
-
-
+.card-body{
+    height: auto;
+}
