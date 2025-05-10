@@ -42,7 +42,6 @@ h2{
     text-align: center;
 }
 
-.card-body{
-    height: auto;
+@media (max-width: ){
+    padding-left: 6px;
 }
-
