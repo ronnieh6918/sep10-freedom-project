@@ -47,3 +47,8 @@ h2{
 body{
     background: linear-gradient(lime, lightgreen, skyblue);
 }
+
+.card{
+    height: auto;
+}
+
