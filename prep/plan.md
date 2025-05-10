@@ -30,7 +30,7 @@
 * HTML (Contents) - 4/28
 * CSS (colors, fonts, etc...) and Grid (columns) - 4/29
 * Bootstrap components - 4/30
-* Incoporate A-Frame - 5/1-5/2
+* Incoporate A-Frame design - 5/1-5/2
 * Make website responsive for mobile - 5/3
 * Make website responsive for computer - 5/4
 
@@ -38,7 +38,7 @@
 
 #### Beyond MVP
 
-* Incoporate more bootstrap components and A-Frame components - 5/5 (if MVP is done)
+* Incoporate more bootstrap components - 5/5 (if MVP is done)
 
 
 
