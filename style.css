@@ -3,6 +3,10 @@ h1{
     font-size: 40px;
 }
 
+.img-padding{
+    padding-top: 15px;
+}
+
 .grey-section {
     background-color: #d4d5d6;
 }
