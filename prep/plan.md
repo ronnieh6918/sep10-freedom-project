@@ -5,6 +5,10 @@
 * [Desktop](https://wireframe.cc/SBusN1)
 
 ## Colors
+* #d4d5d6
+* Lime
+* #90EE90
+* Sky Blue
 
 
 ## Fonts
