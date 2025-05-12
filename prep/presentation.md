@@ -1,7 +1,7 @@
 # Presentation Plan
 
 ## Hook
-* Have you wondered what it took to be a hero? Doing something good for the world. Making sure that you're capable of protecting others. 
+* Have you wondered what it took to be a hero? Doing something good for the world. Making sure that you're capable of protecting others. Well, simple, just become a police officer, right? We all tend to forget the other jobs out there, investigators who monitor criminal activities, police officers who enforce justice to punish evil.
 
 ## Product
 *
