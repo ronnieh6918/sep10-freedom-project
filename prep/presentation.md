@@ -1,16 +1,16 @@
 # Presentation Plan
 
 ## Hook
-* 
+* Have you wondered what it took to be a hero? Doing something good for the world. Making sure that you're capable of protecting others. 
 
 ## Product
-* 
+*
 
 ## Process
-* 
+*
 
 ## Conclusion
-* 
+*
 
 <!-- EXAMPLE
 
