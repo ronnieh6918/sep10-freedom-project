@@ -1,16 +1,33 @@
 # Presentation Plan
 
 ## Hook
-* Have you wondered what it took to be a hero? Doing something good for the world. Making sure that you're capable of protecting others. Well, simple, just become a police officer, right? We all tend to forget the other jobs out there, investigators who monitor criminal activities, police officers who enforce justice to punish evil.
+* Have you wondered what it took to be a hero? Doing something good for the world by becoming a protector of others around you? Well, simple, just become a police officer, right? We all tend to forget the other security jobs out there, private investigators who monitor criminal activities, police officers who enforce justice by arresting criminals.
 
 ## Product
-*
+* My Freedom Project website
 
 ## Process
-*
+* Introducing my topic
+  * Security and Investigations
+* Context
+  * What is Security and Investigations?
+* Part A existing apps and gadgets
+  * Software apps
+  * Hardware gadgets
+* Part B technologies
+  * Both future gadgets
+* Reference design for Part B
+* Summarizing my main challenges
+    * Text-shadow
+    * Making website responsive by adjusting with columns instead of using media queries
+    * Making my bootstrap cards equal length using css properties
 
 ## Conclusion
-*
+* [Freedom Project](https://ronnieh6918.github.io/sep10-freedom-project/)
+* Takeaways
+  * These challenges I've faced only strengthened my knowledge of HTML and CSS. Most of the things I was missing was just knowing what types of concepts I need to apply onto my project, for example knowing what concepts of positions I need to use for my text to overlap the image. In this case, position: absolute; will allow me to adjust the position of the text regardless if my image is being in the way. Whereas, using position: relative; wouldn't make my text in the image but only make the image shift downwards in order for my text to be visible.
+  * Thanks to all the comments from my peers, I was able to make my website more clear and concise, add in a few colors, fixing the responsiveness of my website.
+  * One quote I'd like to give after making this website is that making a website requires a lot of ideas and designs should be considerate. Adding in responsiveness to your website makes it much more better experience for users viewing your website. Thank you all for listening to my current progress for my freedom project and the whole entire yapping session, I hope all of you have a great day!
 
 <!-- EXAMPLE
 
