@@ -4,7 +4,9 @@
 * Have you wondered what it took to be a hero? Doing something good for the world by becoming a protector of others around you? Well, simple, just become a police officer, right? We all tend to forget the other security jobs out there, private investigators who monitor criminal activities, police officers who enforce justice by arresting criminals.
 
 ## Product
-* My Freedom Project website
+* Provide context surrounding my Freedom Project topic
+* Demo by moving my website to show some of the codes I did
+* Make sure that everyone can see my screen by increasing the zoom size
 
 ## Process
 * Introducing my topic
