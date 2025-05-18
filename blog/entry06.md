@@ -3,7 +3,7 @@
 
 # Context
 
-Welcome to Blog 6, with all the content that I learned about my freedom project topic and putting all those into my website dedicated to **"Security and Investigation"**, I was able to make this website through adding HTML, CSS, Bootstrap, and tinkering with A-Frame. In my website, I used the [Bootstrap's official website](https://getbootstrap.com/) to add bootstrap components such as cards, navbar, and carousel. In my website, I also tinkered using [A-Frame's official website](https://aframe.io/) to create new future technologies that benefit the field and how these technologies would work by adding in my own ideas. 
+Welcome to Blog 6, with all the content that I learned about my freedom project topic and putting all those into my website dedicated to **"Security and Investigation"**, I was able to make this website through adding HTML, CSS, Bootstrap, and tinkering with A-Frame. In my website, I used the [Bootstrap's official website](https://getbootstrap.com/) to add bootstrap components such as cards, navbar, and carousel. In my website, I also tinkered using [A-Frame's official website](https://aframe.io/) to create new future technologies that benefit the field connecting to my freedom project topic and adding in how these technologies would function through adding in my own ideas. 
 
 # EDP
 
