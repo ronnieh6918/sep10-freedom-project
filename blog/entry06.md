@@ -27,7 +27,7 @@ Here is when **applying the text-shadow property**(A dark, blue, and bluish tint
 
 # EDP
 
-Currently, I am on **Step 5: Create a prototype** in the Engineering Design Process, the main focus is I created a prototype which is my own freedom project. Now, I move onto step 6 which is recieving feed backs from my peers on how I could make my website much better and honestly more responsive. The problem I had with my website beforehand was the responsiveness and adjusting my cards to all have the same length and width, hence to make it so that none of the cards look uneven. From the feed backs of my peers, I was able to address these issues before the day of my in class presentation and to the general audience that will visually see the design of my freedom project website. 
+Currently, I am on **Step 5: Create a prototype** in the Engineering Design Process, the main focus is I created a prototype which is my own freedom project. Now, I move onto step 6 which is receiving feed backs from my peers on how I could make my website much better and honestly more responsive. The problem I had with my website beforehand was the responsiveness and adjusting my cards to all have the same length and width, hence to make it so that none of the cards look uneven. From the feed backs of my peers, I was able to address these issues before the day of my in class presentation and to the general audience that will visually see the design of my freedom project website. 
 
 # Skills
 
