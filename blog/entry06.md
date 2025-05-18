@@ -27,12 +27,12 @@ Here is when **applying the text-shadow property**(A dark, blue, and bluish tint
 
 # EDP
 
-Currently, I am on step 5 of the Engineering Design Process, I created a prototype which is my freedom project. I move onto step 6 which is recieving feed backs from my peers on how I could make my website much better and honestly more responsive. The problem I had with my website was the responsiveness and making all my cards have the same length and width, hence none of the cards look uneven. From the feed backs of my peers, I was able to address these issues prior to the day of my presentation. 
+Currently, I am on **Step 5: Create a prototype** in the Engineering Design Process, the main focus is I created a prototype which is my own freedom project. Now, I move onto step 6 which is recieving feed backs from my peers on how I could make my website much better and honestly more responsive. The problem I had with my website beforehand was the responsiveness and adjusting my cards to all have the same length and width, hence to make it so that none of the cards look uneven. From the feed backs of my peers, I was able to address these issues before the day of my in class presentation and to the general audience that will visually see the design of my freedom project website. 
 
 # Skills
 
-* **Organization** = I organized most of my stuff using a wireframe before making my project. The main illustration of how my website would look like in its MVP before making it into a website above MVP. My wireframe both have a visual representation of all my contents, but also for the responsiveness on devices such as mobile and computers. 
-* **Time management** = My time when making this website took really long and most of my time, I was also on a camping trip which meant I missed most of the days when we were supposed to be working on the project in class and at home. When I got back from the camping trip, I missed so much of the days and had an upcoming AP test that I had to study, so that meant that I priotized my days studying before actually starting to finish and wrapping up the website after the test was over. 
+* **Organization**: I organized most of my stuff using a wireframe before making my project. The main illustration of how my website would look like in its MVP before making it into a website above MVP. My wireframe both have a visual representation of all my contents, but also for the responsiveness on devices such as mobile and computers. 
+* **Time management**: My time when making this website took really long and most of my time, I was also on a camping trip which meant I missed most of the days when we were supposed to be working on the project in class and at home. When I got back from the camping trip, I missed so much of the days and had an upcoming AP test that I had to study, so that meant that I priotized my days studying before actually starting to finish and wrapping up the website after the test was over. 
 
 # Takeaways
 
