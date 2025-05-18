@@ -3,6 +3,8 @@
 
 # Context
 
+Welcome to Blog 6, with all the content that I learned about my freedom project topic and putting all those into my website dedicated to **"Security and Investigation"**, I was able to make this website through adding HTML, CSS, Bootstrap, and tinkering with A-Frame. In my website, I used the [Bootstrap's official website](https://getbootstrap.com/) to add bootstrap components such as cards, navbar, and carousel. In my website, I also tinkered using [A-Frame's official website](https://aframe.io/) to create new future technologies that benefit the field and how these technologies would work by adding in my own ideas. 
+
 # EDP
 
 Currently, I am on step 5 of the Engineering Design Process, I created a prototype which is my freedom project. I move onto step 6 which is recieving feed backs from my peers on how I could make my website much better and honestly more responsive. The problem I had with my website was the responsiveness and making all my cards have the same length and width, hence none of the cards look uneven. From the feed backs of my peers, I was able to address these issues prior to the day of my presentation. 
