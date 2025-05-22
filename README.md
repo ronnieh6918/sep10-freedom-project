@@ -16,7 +16,7 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A
 
 ## Implications
 ##### PROS
-* 
+* The field security and investigation applies to government and laws because investigators are responsible in keeping track of criminal activities, ensuring the protection of safety of others and following the laws despite being certified as a private investigator to provide security for their employeers
 ##### CONS
 * 
 
