@@ -1,18 +1,18 @@
 # SEP10 Freedom Project
-by **X**
+by **Ronnie Huang**
 
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
-For my project, I chose the topic of **X**. 
+For my project, I chose the topic of **Security and Investigations**. 
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make my website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A-Frame** in order to help me make my website.
 
 ## Links
 
-[Product]()
+[Product](https://ronnieh6918.github.io/sep10-freedom-project/)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1XleHHcOvsN7VwU0hxrm_7MsHXu9Ql5lckj_aXe_ekVU/edit?usp=sharing)
 
 ## Implications
 ##### PROS
