@@ -22,7 +22,7 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A
 * For **finance**, private investigators who work for companies are actively securing the company from suspects online who might have evil intent and methods of trying to seek confidental information to exploit. A lot of times, private investigators are able to prevent data from being stolen and is able to successfully secure confidential informations which if not taken responsibly could have resulted damage in the company's economic state. 
 ##### CONS
 * Regarding to **individuals**, unreliable detectives and investigators could essentially uncover much deeper privacy that relates to their suspects, even though privacy should be respected, a lot of privacy might be exposed and potentially put to danger and acknowledged by detectives and investigators to manipulate.
-* Regarding to **culture**, unreliable detectives and investigators who expose one's privacy could really affect someone's cultural identity and how they want their identity to be secured from the general public. A lot of that suspect's cultures may be shared among others which can impact the need to respect someone's culture, livestyle, norms and expectations, while also their own privacy regardless.
+* Regarding to **culture**, unreliable detectives and investigators who expose one's privacy could really affect someone's cultural identity and how they want their identity to be secured from the general public. A lot of that someone's personal data may be easily exposed and shared to others which can pose dangers to respecting someone's culture, their livestyle, their norms and expectations, while also putting a risk in their privacy.
 
 
 ## Blog
