@@ -7,6 +7,15 @@ Hello, welcome to Blog Entry 7, where I'll be discussing how I had to present my
 
 # EDP: 
 
+I am on step 7 of the engineering design process
+
+# Skills: 
+* **Communication:** I learned more on how to work on presentation and that comes from working with communications. Most of coordinating communication with the judges helped me step out of my comfort zone in communicating with new people that want to hear about my presentation. I think in order for me to improve further in communication, I can improve communication by talking to more people besides my friends, like my classmates, which this way I can effectively work in better improving public speaking and also making sure that my voice can be heard as I get more comfortable with speaking to others.
+* **Time management:** I learned that when presenting in the expo to the judges, I lacked time management and exceeded the length of my elevator pitch by adding in more challenges that I had making my freedom project website. I felt like the information that I presented was too much in detail and not too much in actually condensing the information under the one minute mark. Therefore, next time I want to make sure I stick with the plan of my presentation instead of adding onto it on the day of the expo, while definitely took a toll in time and not being able to just present the necessary information of my website.
+
+# Next steps:
+
+For the next steps, in step 7, I want to improve my skill in communication so that I could present my website more effectively to others and recieve more feedbacks. This way, I'm presenting necessary information about my project to others who are interested in my prototype which is my freedom project website. 
 
 
 
