@@ -7,7 +7,7 @@ Hello, welcome to Blog Entry 7, where I'll be discussing how I had to present my
 
 # EDP: 
 
-I am on step 7 of the engineering design process
+I finished **step 6: "Test and evaluate"** when I finished fixing my website based on the feedbacks of my peers. Then, I presented my freedom project website to my class and to the actual SEP expo judges, I was able to get a lot of takeaways on how I should improve. So, currently, I am on **step 7 of the engineering design process**, which is to **"improve"**, I want to improve in communication which then I can present the information of my freedom project website more effectively and recieve as much feedbacks as possible. Hence, I am able to work on improving my public speaking skills and improving my website while being able to present effectively to others and adding more necessary changes to my actual prototype. 
 
 # Skills: 
 * **Communication:** I learned more on how to work on presentation and that comes from working with communications. Most of coordinating communication with the judges helped me step out of my comfort zone in communicating with new people that want to hear about my presentation. I think in order for me to improve further in communication, I can improve communication by talking to more people besides my friends, like my classmates, which this way I can effectively work in better improving public speaking and also making sure that my voice can be heard as I get more comfortable with speaking to others.
